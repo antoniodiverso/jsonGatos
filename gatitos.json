@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "Manchitas Rodriguez",
+        "descripción": "Mimoso, gordito y juguetón",
+        "sexo": "Macho",
+        "edad": "2 años",
+        "castrado": true
+    },
+
+    {
+        "nombre": "Pelusesca",
+        "descripción": "Se porta mal, le gusta robar comida humana pero es buena onda ;)",
+        "sexo": "Hembra",
+        "edad": "10 meses",
+        "castrado": false
+    }
+
+]
